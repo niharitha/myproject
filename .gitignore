@@ -1,0 +1,6 @@
+*.pyc
+staticfiles
+*.swp
+*.swo
+*~
+*.sqlite3
